@@ -2,4 +2,6 @@
 WPA/WPA2 MAROC WORLD LIST
 
 
-<img ><a href="//imgur.com/a/GkklMGQ"></a>
+<img ><a href="https://imgur.com/6kSTLSH
+"></a>
+
