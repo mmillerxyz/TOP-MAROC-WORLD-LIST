@@ -20,7 +20,7 @@ HAVE EASY PASSWD LIKE 12345678 NAME+YEAR OR NAME@YEAR ...
 <P> https://mega.nz/folder/p4lCTIaK#Szemg7V395XjonBDHmWmUA
 <P> ######################################################
 
-# ALL THIS FILES CREATE  OR MODIFIER BY
+# ALL THIS FILES CREATE  OR MODIFIER WITH
 
 <P> notepad++
 <P> maskprocessor
