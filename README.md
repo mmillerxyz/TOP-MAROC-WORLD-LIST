@@ -1,6 +1,7 @@
 # TOP-MAROC-WORLD-LIST
 WPA/WPA2 MAROC WORLD LIST
-
+# FAST-WPA
+HAVE EASY PASSWD LIKE 12345678 NAME+YEAR OR NAME@YEAR ...
 
 
 
@@ -18,3 +19,14 @@ WPA/WPA2 MAROC WORLD LIST
 ######################################################
 https://mega.nz/folder/p4lCTIaK#Szemg7V395XjonBDHmWmUA
 ######################################################
+
+# ALL THIS FILES CREATE  OR MODIFIER BY
+
+<P> notepad++
+<P> maskprocessor
+#############################################################################################
+	cat wpa.txt | awk 'length >=8 && length <=63' | uniq > new-wordlist.txt                   #
+	grep -E '^.{8,63}$' $path | sort -t: -u -k1,1 > $path              1file                  #
+	cat $path | sort | uniq | pw-inspector -m 8 -M 63 > $output                               #
+#############################################################################################
+ 
