@@ -25,8 +25,8 @@ https://mega.nz/folder/p4lCTIaK#Szemg7V395XjonBDHmWmUA
 <P> notepad++
 <P> maskprocessor
 <P> #############################################################################################
-<P> 	cat wpa.txt | awk 'length >=8 && length <=63' | uniq > new-wordlist.txt                 #
-<P> 	grep -E '^.{8,63}$' $path | sort -t: -u -k1,1 > $path              1file                #
-<P> 	 cat $path | sort | uniq | pw-inspector -m 8 -M 63 > $output                            #
+<P> 	cat wpa.txt | awk 'length >=8 && length <=63' | uniq > new-wordlist.txt 
+<P> 	grep -E '^.{8,63}$' $path | sort -t: -u -k1,1 > $path 
+<P>  cat $path | sort | uniq | pw-inspector -m 8 -M 63 > $output
 <P> #############################################################################################
  
