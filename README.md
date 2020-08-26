@@ -25,7 +25,8 @@ HAVE EASY PASSWD LIKE 12345678 NAME+YEAR OR NAME@YEAR ...
 <P> notepad++
 <P> maskprocessor
 <P> hjsplit
- 
+<P> combinator
+  
 <P> #########################################################################
 <P> 	cat wpa.txt | awk 'length >=8 && length <=63' | uniq > new-wordlist.txt 
 <P> 	grep -E '^.{8,63}$' wpa.txt | sort -t: -u -k1,1 > new-wordlist.txt 
