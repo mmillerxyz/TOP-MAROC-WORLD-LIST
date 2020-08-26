@@ -15,7 +15,7 @@ HAVE EASY PASSWD LIKE 12345678 NAME+YEAR OR NAME@YEAR ...
 # wpskey
 # 3-4 num
 # TOP-MAROC-WORLD-LIST
-# collection-WPA
+# Collection-WPA
 <P> ######################################################
 <P> https://mega.nz/folder/p4lCTIaK#Szemg7V395XjonBDHmWmUA
 <P> ######################################################
