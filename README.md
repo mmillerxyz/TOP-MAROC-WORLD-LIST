@@ -1,3 +1,4 @@
+
 # TOP-MAROC-WORLD-LIST
 WPA/WPA2 MAROC WORLD LIST
 # FAST-WPA
@@ -7,7 +8,7 @@ HAVE EASY PASSWD LIKE 12345678 NAME+YEAR OR NAME@YEAR ...
 
 
 <img src="https://i.imgur.com/6kSTLSH.png">
-
+<P> this world list is just for study and improve security of WPA 
 ##################################################################################
 
 # 8 num
